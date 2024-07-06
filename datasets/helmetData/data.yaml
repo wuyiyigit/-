@@ -1,0 +1,9 @@
+train: D:\anquanmaojiance\YOLOv8hat-helmet-1\datasets\helmetData\train  # train images (relative to 'path') 128 images
+val: D:\anquanmaojiance\YOLOv8hat-helmet-1\datasets\helmetData\valid  # val images (relative to 'path') 128 images
+test: C:\Users\pc\Desktop\YOLOv8hat-helmet\datasets\helmetData\test # val images (optional)
+
+# number of classes
+nc: 2
+
+# Classes
+names: ['hat','person']
